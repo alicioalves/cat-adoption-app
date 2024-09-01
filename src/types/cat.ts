@@ -4,7 +4,7 @@ export interface Cat {
   age: number;
   breed: string;
   description?: string;
-  image?: string;
+  image: string;
   adopted: boolean;
   created_at: string;
   updated_at: string;
